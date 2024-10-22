@@ -1,4 +1,4 @@
-## Hi there 👋!!
+![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=코딩하는%20김동현입니다&section=header&fontAlign=50&fontAlignY=44)
 
 <!--
 **Dom1046/Dom1046** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
