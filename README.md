@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dom1046" alt="dom1046" /></a> </p>
 
-- 🔭 I’m currently working on [final Project](https://github.com/prgrms-be-devcourse/NBE2_3_Team7)
+- 🔭 I’m currently working on [final Project]([https://github.com/prgrms-be-devcourse/NBE2_3_Team7](https://github.com/prgrms-web-devcourse-final-project/WEB1_2_Mallangs_BE))
 
 - 🌱 I’m currently learning **AWS, Kotlin, Spring boot, JPA**
 
