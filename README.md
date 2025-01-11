@@ -29,3 +29,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dom1046&show_icons=true&locale=en" alt="dom1046" /></p>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{Dom1046}?pet-id=1" width="1000" height="120"/>
+</a>
